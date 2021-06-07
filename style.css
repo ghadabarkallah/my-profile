@@ -1,0 +1,22 @@
+h1{
+color: #0ff1ce;
+	
+	background-color: red;
+	font-size: 30px;
+	line-height: 8;
+	letter-spacing: 5px;
+	text-align: center;
+	font-weight: bold;
+
+}
+body{
+	background-image: url(images/bbkakounakbir.jpg); 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: red;
+		font-weight: bold;
+}
+li{
+	color: blue
+}
